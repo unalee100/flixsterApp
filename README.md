@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://recordit.co/NwUxB7dmhY" width=250><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/NwUxB7dmhY.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1613848678&Signature=Sv6yTI%2FboMQC9PpC3DqkyY7p5ds%3D" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
